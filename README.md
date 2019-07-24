@@ -13,7 +13,7 @@ ShouldDO :100: is a basic web  application build with Javascript, with ShouldDo 
 
  1) Clone it 📍 : 
  ```
- git clone https://github.com/simbaaf/shouldDo.git
+ git clone https://github.com/simbaaf/shouldDO.git
  ```
 
  2) change directory into shouldDo and Install depemdencies 👊 :

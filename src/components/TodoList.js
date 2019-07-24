@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
-import TodoItems from './TodoItems'
-import './TodoList.css'
+import TodoItems from '../components/TodoItems'
+import '../css/TodoList.css'
 
  class todoList extends Component {
 
@@ -43,7 +43,7 @@ import './TodoList.css'
     render() {
         return (
             <div className="container">
-                <h1 className="title">Mytodo_List</h1>
+                <h1 className="title">Mytodo_List:</h1>
                 <div className="todoListMain">
                     <div className="header">    
                         <form onSubmit={ this.addItem }>

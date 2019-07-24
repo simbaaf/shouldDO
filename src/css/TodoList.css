@@ -1,52 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
  .todoListMain .header button {
     padding: 10px;
     margin: 10px;
     margin-right: 0px;
     border-radius: 10px;
     font-size: 16px;
-    background-color: #ec5519;
-    border: 2px solid #ec5519;
+    background-color: #2bb67cd0;
+    border: 2px solid #2bb67cd0;
     color: aliceblue;
+    font-family: 'Poppins', sans-serif;
 }
 
 .todoListMain .header button:hover {
-    background-color: #f85d03;
-    border: 2px solid #f85d03;
+    background-color: #59c067;
+    border: 2px solid #59c067;
     cursor: pointer;
 
 }
 
 .todoListMain .header input {
     padding: 10px; 
-    font-size: 16px;
-    border-radius: 6px;
-    border: 2px solid rgb(192, 192, 192);
-    width: 15
+    font-size: 15px;
+    border-radius: 70px;
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid rgb(17, 194, 135);
+    width: 220px
 }
 
 .todoListMain .theList li {
     color: black;
-    background-color: #ffddb7;
+    background-color: #bceca6;
     margin-bottom: 15px;
     padding: 12px;
     list-style: none;
     text-align: center;
     border-radius: 4px;
-    transition: background-color .2s ease-out
+    width: 330px;
+    transition: background-color .2s ease-out;
+    font-family: 'Poppins', sans-serif;
+
 
 }
 .todoListMain .theList li:hover {
-    background-color: rgb(255, 115, 96)
+    background-color: rgb(255, 115, 96);
+    cursor: pointer;
 }
 
 ul.theList {
     padding: 0;
 }
 
-.container {
-    margin-left: 600px;
+div.container {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    height: 200px;
+    margin-top: -100px; 
+    width: 400px;
+    margin-left: -200px ;
+    font-family: 'Poppins', sans-serif;
+
 }
 
-.text {
-    margin-bottom: 80px;
+.title {
+    margin-bottom: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: #28a859;
+
+
 }

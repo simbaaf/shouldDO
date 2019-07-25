@@ -1,6 +1,6 @@
 # Introdution 😎 : 
 
-ShouldDO :100: is a basic web  application build with Javascript, with ShouldDo you can create list for what you should do Daily .
+ShouldDO :100: is a Small web  application build with Javascript, It's allows you create list for what you should do Daily .
 
 # Technologies Used 💎
 
@@ -21,7 +21,7 @@ ShouldDO :100: is a basic web  application build with Javascript, with ShouldDo 
 cd shouldDo/ | npm install
  ```
 
- 3) after install dependencies run the project :fire: :
+ 3) after install dependencies run the project by the following command :fire: :
  ```
  npm start
  ```

@@ -1,6 +1,6 @@
 # Introdution 😎 : 
 
-ShouldDO :100: is a Small web  application build with Javascript, It's allows you create list for what you should do Daily .
+ShouldDO :100: is a Small web  application build with Javascript which allow you create list for what you should do Daily .
 
 # Technologies Used 💎
 
